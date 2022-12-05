@@ -8,11 +8,11 @@ Email plugin to render custom email
 Development setup
 -----------------
 
-1. Make sure that you have a working `pretix development setup`_.  IGNORE
+1. Make sure that you have a working `pretix development setup`_.  
 
-2. Clone this repository. IGNORE
+2. Clone this repository. 
 
-3. Activate the virtual environment you use for pretix development.  IGNORE
+3. Activate the virtual environment you use for pretix development. 
 
 4. Execute ``python setup.py develop`` within this (prefix-superplugin) directory to register this application with pretix's plugin registry.
 
